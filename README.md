@@ -1,0 +1,2 @@
+# AI_Natural_Language_Processing
+Contains Projects and Problems solved using NLP concepts such as tokenizing text data, converting words to their base forms using stemming and lemmatization, dividing text data into chunks.  Project examples include, building a category predictor, constructing a gender identifier, building a sentiment analyzer, topic modelling using Latent Dirichlet Allocation etc. 
